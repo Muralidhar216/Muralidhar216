@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muralidhar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Enthusiastic developer with strong problem-solving skills and experience in mobile and web development,
+ready to tackle real-world challenges.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
